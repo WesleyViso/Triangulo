@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\wesle\OneDrive\Anhembi\7 semestre\CG_2022_1-main\HelloTriangle\HelloTriangle\Source.cpp(244,28): warning C4244: 'argumento': conversão de 'double' para 'GLuint', possível perda de dados
+  HelloTriangle.vcxproj -> C:\Users\wesle\OneDrive\Anhembi\7 semestre\CG_2022_1-main\HelloTriangle\Debug\HelloTriangle.exe
